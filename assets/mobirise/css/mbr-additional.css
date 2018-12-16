@@ -1876,7 +1876,7 @@ body {
   color: #465052;
 }
 .cid-rcqvSyHfjF {
-  padding-top: 45px;
+  padding-top: 30px;
   padding-bottom: 45px;
   background: #ffffff;
 }
@@ -1924,6 +1924,11 @@ body {
     padding: 0 0 2rem 0 !important;
     -webkit-flex-basis: initial !important;
   }
+}
+.cid-rcqHPhxqmL {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
 }
 .cid-rcqpFirQLW {
   padding-top: 90px;
@@ -2014,7 +2019,7 @@ body {
 .cid-rcqpXzzf0R {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #f9f9f9;
 }
 .cid-rcqpXzzf0R .mbr-iconfont {
   font-size: 48px;
